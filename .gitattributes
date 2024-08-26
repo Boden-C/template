@@ -1,0 +1,104 @@
+# Handle line endings automatically for text files
+* text=auto
+
+# Denote all files that are considered binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.tar binary
+*.7z binary
+*.mp4 binary
+*.mp3 binary
+*.ogg binary
+*.wav binary
+*.avi binary
+*.mov binary
+
+# Set language-specific handling for common file types
+
+# C/C++
+*.c text
+*.cpp text
+*.h text
+*.hpp text
+
+# Java
+*.java text
+
+# Python
+*.py text
+
+# JavaScript
+*.js text
+
+# TypeScript
+*.ts text
+
+# HTML/CSS
+*.html text
+*.css text
+
+# JSON, YAML
+*.json text
+*.yml text
+*.yaml text
+
+# Markdown
+*.md text
+
+# Shell scripts
+*.sh text eol=lf
+
+# Batch files
+*.bat text eol=crlf
+
+# Makefile
+Makefile text eol=lf
+
+# Ignore lock files and binary-like files that should not be normalized
+*.lock -text
+*.dll binary
+*.exe binary
+
+# Prevent Git from treating large files as text files
+*.tar.gz binary
+*.iso binary
+
+# Handle documentation and other non-code files
+*.doc binary
+*.docx binary
+*.ppt binary
+*.pptx binary
+*.xls binary
+*.xlsx binary
+
+# Handle common archives and compressed files
+*.rar binary
+*.tar.gz binary
+*.tgz binary
+*.bz2 binary
+
+# Preserve end-of-line characters in Windows executables
+*.exe binary
+
+# Images
+*.svg text
+
+# Set all recognized file types as binary if you don't want any line-ending normalization
+*.bin binary
+
+# UTF-16 encoded files
+*.utf16 text working-tree-encoding=UTF-16
+
+# Always exclude certain files from diffing
+*.min.js -diff
+*.min.css -diff
+*.log -diff
+
+# Custom handling for language-specific settings
+# Add more as needed
