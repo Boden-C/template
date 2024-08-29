@@ -1,0 +1,23 @@
+# Root-level configuration
+root = true
+
+# Unix-style newlines, final newline, and UTF-8 charset for all files
+[*]
+end_of_line = lf
+insert_final_newline = true
+charset = utf-8
+indent_style = space
+indent_size = 4
+trim_trailing_whitespace = false
+
+# Tab indentation for Makefiles
+[Makefile]
+indent_style = tab
+
+# 2 space indentation for JSON, YAML, and XML files
+[*.{json,yml,yaml,xml}]
+indent_size = 2
+
+# Specific rules for Markdown files
+[*.md]
+trim_trailing_whitespace = true
