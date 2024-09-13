@@ -13,7 +13,31 @@ This repository is meant to include all important community files for open sourc
 
 ## Installation
 
+### Releases
+
+To install this project, you can use the releases available in the [Releases](./releases) section. Choose the version you want and download the appropriate package for your system. Follow the installation instructions specific to that release.
+
+### Self-Installation
+
+Alternatively, you can install this project manually. 
+
+If you want to just download the current `.zip` archive, you can click the green "Code" button on GitHub, select "Download ZIP", and extracting the contents.
+
+If you want to stay updated, you can clone the repository. 
+
+1. If you have not already, install [Git](https://git-scm.com/)
+2. Clone the repository by running the following command in terminal:
+   ```bash
+   git clone https://github.com/this-username/this-repo.git
+   ```
+3. To update pull from the repository by this command:
+   ```bash
+   git pull
+   ```
+
 ## Using
+
+### Configuration
 
 ### API Reference
 
@@ -21,7 +45,7 @@ This repository is meant to include all important community files for open sourc
 
 ### Contributors
 
-### Credits
+## Credits
 
 [PurpleBooth](https://github.com/PurpleBooth/a-good-readme-template) for Code of Conduct and Contributing  
 [svt](https://github.com/svt/open-source-project-template) for Security and Changelog
