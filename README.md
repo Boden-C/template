@@ -15,7 +15,7 @@ This repository is meant to include all important community files for open sourc
 
 ### Releases
 
-To install this project, you can use the releases available in the [Releases](./releases) section. Choose the version you want and download the appropriate package for your system. Follow the installation instructions specific to that release.
+To install this project, you can use the releases available in the [Releases](../../releases) section. Choose the version you want and download the appropriate package for your system. Follow the installation instructions specific to that release.
 
 ### Self-Installation
 
@@ -37,11 +37,21 @@ If you want to stay updated, you can clone the repository.
 
 ## Using
 
+To get started using this project, refer to the [wiki](../../wiki) or documentation for more details. This section can include any necessary instructions or links to guides that help users get up and running.
+
 ### Configuration
+
+You might need to adjust a few environment variables or configuration settings before starting the project.
 
 ### API Reference
 
+For details on API endpoints and how to use them, you can refer to the source code or relevant documentation.
+
 ## Developing
+
+Contributions are always welcome. If you'd like to develop or improve this project, make sure you have forked and cloned the repository and installed all the requirements. Please follow the exisitng style guidelines.
+
+For more information, read the [docs](./docs)
 
 ### Contributors
 
