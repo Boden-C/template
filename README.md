@@ -1,12 +1,13 @@
-<div align="center">
-   <h1>Template<h1>
+<h1 align="center">
+   Template
+   <br>
    <a href="./LICENSE">
       <img src="https://img.shields.io/badge/License-CC0-green" alt="License">
    </a>
    <a href="../../releases">
       <img src="https://img.shields.io/badge/Version-a0.1-red" alt="Version">
    </a>
-</div>
+</h1>
 
 This repository is meant to include all important community files for open source projects
 
