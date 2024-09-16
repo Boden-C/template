@@ -1,10 +1,10 @@
-<div style="text-align: center;">
+<div align="center">
    <h1>Template<h1>
    <a href="./LICENSE">
-      <img src="https://img.shields.io/badge/License-CC0-green" alt="License Badge">
+      <img src="https://img.shields.io/badge/License-CC0-green" alt="License">
    </a>
    <a href="../../releases">
-      <img src="https://img.shields.io/badge/Version-v1.0-red" alt="Version Badge">
+      <img src="https://img.shields.io/badge/Version-a0.1-red" alt="Version">
    </a>
 </div>
 
