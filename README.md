@@ -1,6 +1,12 @@
-# Template
-![Static Badge](https://img.shields.io/badge/License-MIT-green)
-![Static Badge](https://img.shields.io/badge/Version-v1.0-red)
+<div style="text-align: center;">
+   <h1>Template<h1>
+   <a href="./LICENSE">
+      <img src="https://img.shields.io/badge/License-CC0-green" alt="License Badge">
+   </a>
+   <a href="../../releases">
+      <img src="https://img.shields.io/badge/Version-v1.0-red" alt="Version Badge">
+   </a>
+</div>
 
 This repository is meant to include all important community files for open source projects
 
