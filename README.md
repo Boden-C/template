@@ -1,15 +1,15 @@
-<h1 align="center">
-   Template
-   <br>
+<div align="center" font-size="48px">
+   <h1 style="font-size: 40px">Template</h1>
    <a href="./LICENSE">
-      <img src="https://img.shields.io/badge/License-CC0-green" alt="License">
+      <img src="https://img.shields.io/badge/License-CC0-green?style=for-the-badge" alt="License">
    </a>
    <a href="../../releases">
-      <img src="https://img.shields.io/badge/Version-a0.1-red" alt="Version">
+      <img src="https://img.shields.io/badge/Version-a0.1-red?style=for-the-badge" alt="Version">
    </a>
-</h1>
-
-This repository is meant to include all important community files for open source projects
+   <br>
+   <br>
+   This repository is meant to include all important community files for open source projects
+</div>
 
 ## Description
 
