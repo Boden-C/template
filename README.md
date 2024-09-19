@@ -1,18 +1,18 @@
-<div align="center" font-size="48px">
-   <h1 style="font-size: 40px">Template</h1>
-   <br>
+<div align="center" font-size="128px">
+   <h1>Template</h1>
    <a href="./LICENSE">
-      <img src="https://img.shields.io/badge/License-CC0-green?style=for-the-badge" alt="License">
+      <img src="https://img.shields.io/badge/License-CC0-green?style=flat-square" alt="License">
    </a>
    <a href="../../releases">
-      <img src="https://img.shields.io/badge/Version-a0.1-red?style=for-the-badge" alt="Version">
+      <img src="https://img.shields.io/badge/Version-a0.1-red?style=flat-square" alt="Version">
    </a>
    <a href="../../wiki">
-      <img src="https://img.shields.io/badge/Wiki-WIP-red?style=for-the-badge" alt="Version">
+      <img src="https://img.shields.io/badge/Wiki-WIP-red?style=flat-square" alt="Version">
    </a>
    <br>
    This repository is meant to include all important community files for open source projects
 </div>
+<br>
 
 ## Description
 
